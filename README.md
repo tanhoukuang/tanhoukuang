@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tan Hou Kuang
-- 👀 I’m interested in finance + technology = fintech, investment and banking
+- 👀 I’m interested in finance + technology = fintech, investment, corporate finance and banking
 - 🌱 I’m currently learning web scraping and web recommandation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via my email houkuang97@gmail.com or my contact (+60)12-5622198
